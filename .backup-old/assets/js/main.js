@@ -4,7 +4,6 @@
       nav_home: "الرئيسية",
       nav_about: "من نحن",
       nav_services: "الخدمات",
-      nav_packages: "الباقات",
       nav_gallery: "المعرض",
       nav_hours: "ساعات العمل",
       nav_contact: "تواصل معنا",
@@ -24,8 +23,8 @@
       cta_sub: "تواصل معنا الآن واحجز مساحتك المناسبة بسهولة.",
       location_title: "الموقع",
       location_more: "عرض تفاصيل التواصل",
-      address: "شارع عمر المختار – بعد منتزه البلدية بـ50 متر – عمارة القصاص (دايمند) – الطابق الأول",
-      footer_address_short: "شارع عمر المختار – عمارة القصاص (دايمند) – الطابق الأول",
+      address: "السرايا – بعد منتزه البلدية بـ50 متر – عمارة دياموند – الطابق الأول",
+      footer_address_short: "السرايا – عمارة دياموند – الطابق الأول",
       logo_alt: "شعار jcec.hub",
       about_title: "من نحن",
       about_text: "jcec.hub مساحة عمل حديثة في غزة تم تصميمها لدعم رواد الأعمال، الفرق الصغيرة، والمدربين ضمن بيئة احترافية مريحة.",
@@ -33,8 +32,8 @@
       gallery_title: "المعرض",
       gallery_sub: "لمحات من بيئة العمل داخل jcec.hub",
       hours_title: "ساعات العمل",
-      hours_main: "نستقبلكم خلال شهر رمضان من الساعة 9:00 صباحًا حتى 5:00 مساءً، ومن 7:00 مساءً حتى 11:00 مساءً.\n\nنستقبلكم يوميًا في الأيام العادية من الساعة 9:00 صباحًا حتى 11:00 مساءً.",
-      hours_note: "يُرجى التواصل معنا للتأكد من مواعيد العمل الحالية.",
+      hours_main: "يوميًا من 12:00 ظهرًا إلى 10:00 مساءً",
+      hours_note: "قد تتغير المواعيد، تواصل معنا للتأكيد.",
       contact_title: "تواصل معنا",
       contact_address_label: "العنوان:",
       contact_whatsapp_label: "واتساب:",
@@ -57,51 +56,12 @@
       wa_tooltip: "احجز عبر واتساب",
       instagram_aria: "حساب انستغرام jcec.hub",
       facebook_aria: "صفحة فيسبوك jcec.hub",
-      whatsapp_prefill: "مرحبًا jcec.hub، أرغب بالتواصل.",
-      dev_name: "تصميم وتطوير: <strong>يوسف أيمن</strong>",
-      dev_company: "مؤسس YAD Services",
-      dev_portfolio: "معرض أعمال المطور",
-      dev_whatsapp: "تواصل مع YAD Services",
-      faq_title: "الأسئلة الشائعة",
-      faq_q1: "كيف يمكنني حجز مساحة عمل أو مكتب؟",
-      faq_a1: "احجز مباشرة عبر واتساب وسنؤكد لك التوقيت والمساحة المناسبة.",
-      faq_q2: "هل توفرون إنترنت وكهرباء مستقرة؟",
-      faq_a2: "نعم، المركز مجهز بالمرافق الأساسية المناسبة للعمل اليومي والاجتماعات.",
-      faq_q3: "هل يمكنني الحجز بالساعة أو ليوم كامل؟",
-      faq_a3: "نعم، خيارات الحجز مرنة بناءً على المدة ونوع المساحة.",
-      dev_showcase_title: "هل تريد موقعًا مثل هذا؟",
-      dev_showcase_desc: "تم تصميم هذا الموقع وتطويره بواسطة يوسف أيمن. إذا كنت تريد موقعًا حديثًا وسريعًا لعملك، فتواصل معه.",
-      dev_showcase_cta: "اطلب موقعًا مشابهًا",
-      dev_showcase_note: "مؤسس خدمات YAD",
-      packages_title: "باقات الاشتراك",
-      packages_subtitle: "اختر الباقة المناسبة لك",
-      monthly_plans: "الباقات الشهرية",
-      weekly_plans: "الباقات الأسبوعية",
-      package_student: "طلاب الجامعات",
-      package_student_desc: "استخدام جوال + آيباد",
-      package_engineering: "التخصصات الهندسية",
-      package_engineering_desc: "للطلاب المهندسين + هدية",
-      package_freelancer_basic: "فريلانسر - أساسي",
-      package_freelancer_basic_desc: "باقة مثالية للمستقلين + هدية",
-      package_freelancer_premium: "فريلانسر - مميز",
-      package_freelancer_premium_desc: "مشروبات مجانية طوال الشهر",
-      package_student_weekly: "طلاب - أسبوعي",
-      package_student_weekly_desc: "جوال + آيباد",
-      package_engineering_weekly: "هندسة - أسبوعي",
-      package_engineering_weekly_desc: "للابتوب والتخصصات الهندسية",
-      package_freelancer_weekly: "فريلانسر - أسبوعي",
-      package_freelancer_weekly_desc: "باقة مثالية للمحترفين",
-      price_monthly: "شهريًا",
-      price_weekly: "أسبوعيًا",
-      currency: "شيكل",
-      package_book: "احجز الآن",
-      package_whatsapp_intro: "مرحبًا jcec.hub، أرغب بالاستفسار عن الباقة التالية"
+      whatsapp_prefill: "مرحبًا jcec.hub، أرغب بالتواصل."
     },
     en: {
       nav_home: "Home",
       nav_about: "About",
       nav_services: "Services",
-      nav_packages: "Packages",
       nav_gallery: "Gallery",
       nav_hours: "Working Hours",
       nav_contact: "Contact",
@@ -121,8 +81,8 @@
       cta_sub: "Contact us now and book the workspace that fits your needs.",
       location_title: "Location",
       location_more: "View contact details",
-      address: "Omar Al-Mukhtar Street – 50m after Al Baladiya Park – Al-Qassas Building (Diamond) – 1st Floor",
-      footer_address_short: "Omar Al-Mukhtar St. - Al-Qassas Building (Diamond) - 1st Floor",
+      address: "Al Saraya – 50m after Al Baladiya Park – Diamond Building – 1st Floor",
+      footer_address_short: "Al Saraya - Diamond Building - 1st Floor",
       logo_alt: "jcec.hub logo",
       about_title: "About Us",
       about_text: "jcec.hub is a modern workspace in Gaza built to support entrepreneurs, small teams, and trainers in a professional, comfortable setting.",
@@ -130,8 +90,8 @@
       gallery_title: "Gallery",
       gallery_sub: "Snapshots from the working environment at jcec.hub",
       hours_title: "Working Hours",
-      hours_main: "We welcome you during Ramadan from 9:00 AM to 5:00 PM, and from 7:00 PM to 11:00 PM.\n\nWe welcome you daily during regular days from 9:00 AM to 11:00 PM.",
-      hours_note: "Please contact us to confirm current working hours.",
+      hours_main: "Daily from 12:00 PM to 10:00 PM",
+      hours_note: "Hours may change, contact us to confirm.",
       contact_title: "Contact Us",
       contact_address_label: "Address:",
       contact_whatsapp_label: "WhatsApp:",
@@ -154,45 +114,7 @@
       wa_tooltip: "Book via WhatsApp",
       instagram_aria: "jcec.hub Instagram profile",
       facebook_aria: "jcec.hub Facebook page",
-      whatsapp_prefill: "Hello jcec.hub, I would like to get in touch.",
-      dev_name: "Designed & Developed by <strong>Yousif Ayman</strong>",
-      dev_company: "Founder of YAD Services",
-      dev_portfolio: "Developer Portfolio",
-      dev_whatsapp: "Contact YAD Services",
-      faq_title: "Frequently Asked Questions",
-      faq_q1: "How can I book a workspace or office?",
-      faq_a1: "Book directly via WhatsApp and we'll confirm the timing and suitable space for you.",
-      faq_q2: "Do you provide stable internet and electricity?",
-      faq_a2: "Yes, the center is equipped with essential facilities suitable for daily work and meetings.",
-      faq_q3: "Can I book by the hour or for a full day?",
-      faq_a3: "Yes, booking options are flexible based on duration and space type.",
-      dev_showcase_title: "Want a website like this?",
-      dev_showcase_desc: "This website was designed and developed by Yousif Ayman. If you want a modern and fast website for your business, get in touch with him.",
-      dev_showcase_cta: "Request a Similar Website",
-      dev_showcase_note: "Founder of YAD Services",
-      packages_title: "Subscription Packages",
-      packages_subtitle: "Choose the package that suits you",
-      monthly_plans: "Monthly Packages",
-      weekly_plans: "Weekly Packages",
-      package_student: "University Students",
-      package_student_desc: "Mobile + iPad usage",
-      package_engineering: "Engineering Majors",
-      package_engineering_desc: "For engineering students + Gift",
-      package_freelancer_basic: "Freelancer - Basic",
-      package_freelancer_basic_desc: "Perfect for freelancers + Gift",
-      package_freelancer_premium: "Freelancer - Premium",
-      package_freelancer_premium_desc: "Free beverages all month",
-      package_student_weekly: "Students - Weekly",
-      package_student_weekly_desc: "Mobile + iPad",
-      package_engineering_weekly: "Engineering - Weekly",
-      package_engineering_weekly_desc: "For laptop & engineering majors",
-      package_freelancer_weekly: "Freelancer - Weekly",
-      package_freelancer_weekly_desc: "Perfect for professionals",
-      price_monthly: "Monthly",
-      price_weekly: "Weekly",
-      currency: "ILS",
-      package_book: "Book Now",
-      package_whatsapp_intro: "Hello jcec.hub, I would like to inquire about the following package"
+      whatsapp_prefill: "Hello jcec.hub, I would like to get in touch."
     }
   };
 
@@ -201,21 +123,12 @@
   const langSwitch = document.getElementById("langSwitch");
   const navMenu = document.getElementById("navMenu");
   const menuToggle = document.querySelector(".menu-toggle");
-  const getLang = () => {
-    const saved = sessionStorage.getItem("jcec_lang");
-    return saved || "ar";
-  };
+  const getLang = () => localStorage.getItem("jcec_lang") || "ar";
 
   const setTextNodes = (dict) => {
     document.querySelectorAll("[data-i18n]").forEach((el) => {
       const key = el.getAttribute("data-i18n");
-      if (dict[key]) {
-        if (key === "dev_name") {
-          el.innerHTML = dict[key];
-        } else {
-          el.textContent = dict[key];
-        }
-      }
+      if (dict[key]) el.textContent = dict[key];
     });
 
     document.querySelectorAll("[data-i18n-aria-label]").forEach((el) => {
@@ -240,7 +153,6 @@
       home: lang === "ar" ? "jcec.hub | الرئيسية" : "jcec.hub | Home",
       about: lang === "ar" ? "jcec.hub | من نحن" : "jcec.hub | About",
       services: lang === "ar" ? "jcec.hub | الخدمات" : "jcec.hub | Services",
-      packages: lang === "ar" ? "jcec.hub | الباقات" : "jcec.hub | Packages",
       gallery: lang === "ar" ? "jcec.hub | المعرض" : "jcec.hub | Gallery",
       hours: lang === "ar" ? "jcec.hub | ساعات العمل" : "jcec.hub | Working Hours",
       contact: lang === "ar" ? "jcec.hub | تواصل معنا" : "jcec.hub | Contact"
@@ -271,7 +183,7 @@
     langSwitch.addEventListener("click", () => {
       langSwitch.classList.add("switching");
       const next = getLang() === "ar" ? "en" : "ar";
-      sessionStorage.setItem("jcec_lang", next);
+      localStorage.setItem("jcec_lang", next);
       applyLanguage(next);
       setTimeout(() => langSwitch.classList.remove("switching"), 320);
     });
@@ -531,23 +443,4 @@
       }
     });
   }
-
-  const packageButtons = document.querySelectorAll(".package-btn");
-  packageButtons.forEach((btn) => {
-    btn.addEventListener("click", (e) => {
-      e.preventDefault();
-      const card = btn.closest(".package-card");
-      const packageName = card.querySelector("h3").textContent;
-      const packageDesc = card.querySelector(".package-desc").textContent;
-      const price = card.dataset.price;
-      const currency = card.querySelector(".price-currency").textContent;
-      const period = card.querySelector(".price-period").textContent;
-      
-      const lang = getLang();
-      const intro = i18n[lang].package_whatsapp_intro;
-      const message = `${intro}:\n\n📦 ${packageName}\n📝 ${packageDesc}\n💰 ${price} ${currency} (${period})`;
-      const url = `https://wa.me/970567100081?text=${encodeURIComponent(message)}`;
-      window.open(url, "_blank", "noopener");
-    });
-  });
 })();
