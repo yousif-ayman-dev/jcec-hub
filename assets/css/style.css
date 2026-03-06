@@ -922,6 +922,16 @@ a {
     text-underline-offset: 5px;
 }
 
+.contact-social .social-link {
+    color: var(--color-text);
+}
+
+.contact-social .social-link:hover,
+.contact-social .social-link:focus-visible {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+}
+
 .footer-grid .contact-social {
     margin-top: 1.5rem;
 }
@@ -1015,7 +1025,7 @@ textarea::placeholder {
     align-items: center;
     justify-content: center;
     border: 1px solid var(--footer-icon-border);
-    color: var(--color-white);
+    color: var(--color-accent);
     background: var(--footer-icon-bg);
     transition: transform var(--transition), border-color var(--transition), color var(--transition), background var(--transition);
 }
