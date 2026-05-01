@@ -53,7 +53,9 @@ This website was developed for a company in Gaza to help them:
   <img src="assets/images/img-wep.png" width="700"/>
   <img src="assets/images/img-mop.jpeg" width="250"/>
 </p>
+
 ---
+
 
 ## 👨‍💻 Developer
 
