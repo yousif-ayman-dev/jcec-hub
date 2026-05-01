@@ -48,9 +48,9 @@ This website was developed for a company in Gaza to help them:
 
 ## 📸 Preview
 
-![Desktop View](assets/images/img-web.png)
+![Desktop View](assets/images/img-web.jpg)
 
-![Mobile View](assets/images/img-mop.png)
+![Mobile View](assets/images/img-mop.jpg)
 
 ---
 
