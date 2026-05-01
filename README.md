@@ -4,6 +4,7 @@ A professional multi-page website built for a real client to establish a strong 
 
 ## 🚀 Live Demo
 👉 https://yousif-ayman-dev.github.io/jcec-hub/
+
 💼 This project can be customized for businesses to create a strong online presence and attract more clients.
 ---
 
@@ -48,9 +49,6 @@ This website was developed for a company in Gaza to help them:
 
 ## 📸 Preview
 
-![Desktop Preview](assets/images/img-wep.png)
-
-![Mobile Preview](assets/images/img-mop.jpeg)
 <p align="center">
   <img src="assets/images/img-wep.png" width="700"/>
   <img src="assets/images/img-mop.jpeg" width="250"/>
