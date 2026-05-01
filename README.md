@@ -47,10 +47,10 @@ This website was developed for a company in Gaza to help them:
 ---
 
 ## 📸 Preview
-<p align="center">
-  <img src="assets/images/img-web.png" width="600"/>
-  <img src="assets/images/img-mop.png" width="200"/>
-</p>
+
+![Desktop View](assets/images/img-web.png)
+
+![Mobile View](assets/images/img-mop.png)
 
 ---
 
